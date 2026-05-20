@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-dotenv
+redis
+pandas
+numpy
+faker
+loguru
+httpx
+networkx
+apscheduler
+websockets
+psutil
+scikit-learn
